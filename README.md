@@ -1,4 +1,4 @@
-# Färdväg (working title)
+# Voyager Earth
 
 Animated route maps for travel films, as a page on nassau.se. Draw a route or drop in a GPX
 file, switch transport per leg, add signs and photos, pick a camera move, and render an MP4 in
